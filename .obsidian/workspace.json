@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1ae5e6b8510f0158",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Level 1/오늘의 SwiftUI 1/Stack으로 쌓아보아요! VStack, HStack, ZStack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level 1/Swift문법 시작하기 1/변수 왜 그리고 어떻게 쓰는가?.md",
+                "file": "Level 1/오늘의 SwiftUI 1/Stack으로 쌓아보아요! VStack, HStack, ZStack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level 1/Swift문법 시작하기 1/변수 왜 그리고 어떻게 쓰는가?.md",
+                "file": "Level 1/오늘의 SwiftUI 1/Stack으로 쌓아보아요! VStack, HStack, ZStack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level 1/Swift문법 시작하기 1/변수 왜 그리고 어떻게 쓰는가?.md"
+                "file": "Level 1/오늘의 SwiftUI 1/Stack으로 쌓아보아요! VStack, HStack, ZStack.md"
               }
             }
           }
@@ -159,8 +171,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5f16dc79aa63354c",
+  "active": "1ae5e6b8510f0158",
   "lastOpenFiles": [
+    "Level 1/Swift문법 시작하기 1/변수 왜 그리고 어떻게 쓰는가?.md",
     "README.md"
   ]
 }
