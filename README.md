@@ -2,6 +2,14 @@
 
 이 곳은 생활 iOS 를 가지고 더 잘 공부를 할 수 있도록 동영상을 보고나서, 보기전에 보면 좋은 내용들을 제안하는 레포지토리 입니다.
 
+모든 자료는 **개발자리**, 생활iOS에 있습니다.
+
+[Youtube - 개발자리](https://www.youtube.com/@Leeo25)
+
+[Opentutorials - 생활iOS](https://opentutorials.org/course/5022)
+
+[![Video Label](https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/course/5022/12837.jpg)](https://www.youtube.com/@Leeo25)
+
 ## 동영상을 보기전에
 동영상을 보기전에 미리 알면 좋은 내용들이 있습니다. 학습하시는 분들이 동영상을 보기 전에 보면 좋을 내용들을 제안해주세요
 
